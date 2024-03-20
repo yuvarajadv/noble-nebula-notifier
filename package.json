@@ -1,0 +1,20 @@
+{
+  "name": "noble-nebula-notifier",
+  "version": "1.0.5",
+  "description": "A lightweight JavaScript library for elegant notifications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuvarajadv/noble-nebula-notifier"
+  },
+  "author": "Kirill Sokolov",
+  "license": "MIT",
+  "dependencies": {
+    "eventemitter3": "^4.0.7",
+    "shortid": "^2.2.16",
+    "node-notifier": "^9.0.1"
+  }
+}
